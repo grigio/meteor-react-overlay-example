@@ -1,6 +1,6 @@
 ## Leaderboard with `grove:react` + `grigio:babel`
 
-..and `grigio:react-overlay` reusable component http://github.com/grigio/react-overlay
+..and `grigio:react-overlay` reusable component https://github.com/grigio/meteor-react-overlay
 
 you get:
 
